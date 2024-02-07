@@ -1,42 +1,38 @@
 # ProjectTemplate
+#**FIRST version:**
 
-## Explanations and Instructions
+######
+# Road Traffic Accidents Severity Prediction
 
-This repository contains the files needed to initialize a project for your [DataScientest](https://datascientest.com/) training.
+## Overview
 
-It contains mainly the present README.md file and an application template [Streamlit](https://streamlit.io/).
+This repository contains the code for our project **Road Traffic Accidents Severity Prediction**, which was developed as part of our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
 
-**README**
+### Objectives
 
-The README.md file is a central element of any git repository. It allows you to present your project, its objectives, and to explain how to install and launch the project, or even how to contribute to it.
+The primary objective of this project is to develop a precise predictive model capable of estimating the severity of road traffic accidents in France using historical data. By analyzing data spanning from 2018 to 2021, we will clean and preprocess the data, extract relevant features, and build predictive models. We will test various models and evaluation methods to identify the most effective approach. The final model will be trained on historical data.
 
-You will have to modify different sections of this README.md to include the necessary informations.
+Our ultimate goal is to provide insights that can support targeted prevention and intervention measures, contributing to a reduction in the number of severe accidents on French roads.
 
-- Complete the sections (`## Presentation and Installation` `## Streamlit App`) following the instructions in these sections.
-- Delete this section (`## Explanations and Instructions`)
+### Team
 
-**Streamlit Application**
+This project was developed by the following team members:
 
-A [Streamlit] application template (https://streamlit.io/) is available in the [streamlit_app](streamlit_app) folder. You can use this template to start with your project.
+- Artem    ([GitHub] (https://github.com/artmskfr)/ [LinkedIn](http://linkedin.com/))
+- Fabien   ([GitHub](https://github.com/Henri35/)/[LinkedIn](http://linkedin.com/))
+- Jerome   ([GitHub](https://github.com/Jeromik/)
+- Juliette [GitHub](https://github.com/JulietteB927/)/[LinkedIn](http://linkedin.com/))
 
-## Presentation and Installation
+### Contents
 
-Complete this section with a brief description of your project, the context (including a link to the DataScientest course), and the objectives.
+- **Folder 1: Modélisation** - Contains Jupyter notebooks for each algorithm and for both binary and multiclass cases. Additionally, there are folders containing saved results of algorithm runs.
 
-You can also add a brief presentation of the team members with links to your respective networks (GitHub and/or LinkedIn for example).
+- **Folder 2: EDA (Exploratory Data Analysis)** - Includes Jupyter notebooks for data preprocessing, specific to each initial dataset.
 
-**Example:**
+- **Folder 3: Data** - Contains all the initial datasets used in this project.
 
-This repository contains the code for our project **PROJECT_NAME**, developed during our [Data Scientist training](https://datascientest.com/en/data-scientist-course) at [DataScientest](https://datascientest.com/).
-
-The goal of this project is to **...**
-
-This project was developed by the following team :
-
-- John Doe ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
-- Martin Dupont ([GitHub](https://github.com/) / [LinkedIn](http://linkedin.com/))
-
-You can browse and run the [notebooks](./notebooks). 
+- **Fusion_Pre-processing_for_model.ipynb** - This notebook includes all the code for data preprocessing and dataset preparation for the modeling phase.
+#####
 
 You will need to install the dependencies (in a dedicated environment) :
 
