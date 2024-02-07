@@ -1,6 +1,3 @@
-# ProjectTemplate
-#**FIRST version:**
-
 ######
 # Road Traffic Accidents Severity Prediction
 
