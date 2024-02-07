@@ -1,0 +1,107 @@
+﻿dep;nom;Aire;Commune;dep_long;dep_lat
+01;Ain;5 785;01160 Saint-Martin-du-Mont;5.348889 ;46.099444
+02;Aisne;7 419;02000 Clacy-et-Thierret;3.558333 ;49.559444
+03;Allier;7 380;03240 Treban;3.188333 ;46.393611
+04;Alpes-de-Haute-Provence;6 996;04000 Digne-les-Bains;6.243889 ;44.106111
+05;Hautes-Alpes;5 689;05260 Saint-Jean-Saint-Nicolas;6.263056 ;44.663611
+06;Alpes-Maritimes;4 297;06710 Massoins;7.116389 ;43.9375
+07;Ardèche;5 565;07530 Saint-Joseph-des-Bancs;4.424722 ;44.751667
+08;Ardennes;5 244;08430 Mazerny;4.640833 ;49.615556
+09;Ariège;4 908;09000 Brassac;1.503889 ;42.920833
+10;Aube;6 027;10410 Villechétif;4.161667 ;48.304444
+11;Aude;6 345;11250 Ladern-sur-Lauquet;2.414167 ;43.103333
+12;Aveyron;8 774;12290 Pont-de-Salars;2.679722 ;44.280278
+13;Bouches-du-Rhône;5 247;13250 Saint-Chamas;5.086389 ;43.543333
+14;Calvados;5 606;14320 May-sur-Orne;-0.363611 ;49.099722
+15;Cantal;5 776;15800 Thiézac;2.668611 ;45.051111
+16;Charente;5 974;16430 Champniers;0.201667 ;45.718056
+17;Charente-Maritime;6 914;17810 Saint-Georges-des-Coteaux;-0.674444 ;45.780833
+18;Cher;7 310;18390 Osmoy;2.491111 ;47.064722
+19;Corrèze;5 900;19800 Corrèze;1.876944 ;45.356944
+20;Corse;4 022;20190 Santa-Maria-Siché;9.0129;42.0396
+21;Côte-d'Or;8 803;21440 Saint-Martin-du-Mont;4.772222 ;47.424722
+22;Côtes-d'Armor;6 983;22800 Plaine-Haute;-2.864167 ;48.441111
+23;Creuse;5 599;23150 Ahun;2.018889 ;46.090278
+24;Dordogne;9 224;24660 Notre-Dame-de-Sanilhac;0.741389 ;45.104167
+25;Doubs;5 254;25530 Chevigney-lès-Vercel;6.361667 ;47.165278
+26;Drôme;6 559;26340 Saint-Sauveur-en-Diois;5.168056 ;44.684167
+27;Eure;6 035;27110 Quittebeuf;0.996111 ;49.113611
+28;Eure-et-Loir;5 933;28120 Nogent-sur-Eure;1.370278 ;48.3875
+29;Finistère;6 759;29590 Lopérec;-4.058889 ;48.261111
+30;Gard;5 876;30190 Boucoiran-et-Nozières;4.180278 ;43.993333
+31;Haute-Garonne;6 360;31410 Longages;1.172778 ;43.358611
+32;Gers;6 300;32350 Ordan-Larroque;0.453333 ;43.692778
+33;Gironde;10 155;33000 Bordeaux;-0.575278 ;44.825278
+34;Hérault;6 231;34800 Cabrières;3.367222 ;43.579722
+35;Ille-et-Vilaine;6 844;35830 Betton;-1.638611 ;48.154444
+36;Indre;6 898;36250 Niherne/Saint-Maur;1.575833 ;46.777778
+37;Indre-et-Loire;6 160;37250 Sorigny;0.691389 ;47.258056
+38;Isère;7 876;38113 Veurey-Voroize;5.576111 ;45.263333
+39;Jura;5 050;39210 La Marre;5.697778 ;46.728333
+40;Landes;9 351;40110 Villenave;-0.783889 ;43.965556
+41;Loir-et-Cher;6 419;41350 Saint-Claude-de-Diray;1.429444 ;47.616667
+42;Loire;4 807;42110 Poncins;4.165833 ;45.727056
+43;Haute-Loire;5 005;43350 Saint-Paulien;3.806389 ;45.128056
+44;Loire-Atlantique;6 912;44130 Notre-Dame-des-Landes;-1.682222 ;47.361389
+45;Loiret;6 811;45110 Saint-Martin-d'Abbat;2.343889 ;47.912056
+46;Lot;5 227;46240 Soulomès;1.604722 ;44.624167
+47;Lot-et-Garonne;5 385;47260 Granges-sur-Lot;0.460278 ;44.3675
+48;Lozère;5 175;48000 Mende;3.500278 ;44.517222
+49;Maine-et-Loire;7 232;49610 Mûrs-Erigné;-0.564167 ;47.390833
+50;Manche;6 006;50210 Camprond;-1.3275 ;49.079444
+51;Marne;8 191;51510 Saint-Pierre;4.238611 ;48.949167
+52;Haute-Marne;6 257;52000 Chamarandes-Choignes;5.226389 ;48.109444
+53;Mayenne;5 212;53950 La Chapelle-Anthenaise;-0.658056 ;48.146667
+54;Meurthe-et-Moselle;5 282;54670 Malleloy;6.165000 ;48.786944
+55;Meuse;6 236;55220 Récourt-le-Creux;5.381667 ;48.989444
+56;Morbihan;6 874;56500 Moustoir-Ac;-2.810000 ;47.846389
+57;Moselle;6 251;57380 Guessling-Hémering;6.663333 ;49.037222
+58;Nièvre;6 874;58330 Saint-Saulge;3.504722 ;47.115278
+59;Nord;5 751;59310 Coutiches;3.220556 ;50.447222
+60;Oise;5 890;60600 Fitz-James;2.425278 ;49.410278
+61;Orne;6 145;61500 Belfonds;0.128889 ;48.623611
+62;Pas-de-Calais;6 694;62134 Fontaine-lès-Boulans;2.288611 ;50.493611
+63;Puy-de-Dôme;8 012;63170 Pérignat-lès-Sarliève;3.140833 ;45.725833
+64;Pyrénées-Atlantiques;7 685;64190 Gurs;-0.761389 ;43.256667
+65;Hautes-Pyrénées;4 522;65200 Gerde;0.163889 ;43.053056
+66;Pyrénées-Orientales;4 141;66320 Finestret;2.522222 ;42.600000
+67;Bas-Rhin;4 796;67370 Schnersheim;7.551389 ;48.670833
+68;Haut-Rhin;3 533;68540 Feldkirch;7.274167 ;47.858611
+69;Rhône;3 259;69380 Châtillon;4.641389 ;45.870278
+70;Haute-Saône;5 391;70000 Montigny-lès-Vesoul;6.086111 ;47.641111
+71;Saône-et-Loire;8 616;71460 Collonge-en-Charollais;4.542222 ;46.644722
+72;Sarthe;6 246;72000 Le Mans;0.222222 ;47.994444
+73;Savoie;6 271;73260 Les Avanchers-Valmorel;6.443611 ;45.477500
+74;Haute-Savoie;4 605;74130 Brizon;6.428056 ;46.034444
+75;Paris;105;75001 Paris;2.342222 ;48.856667
+76;Seine-Maritime;6 321;76890 Varneville-Bretteville;1.026389 ;49.655000
+77;Seine-et-Marne;5 928;77720 Quiers;2.933333 ;48.626667
+78;Yvelines;2 305;78490 Vicq;1.841667 ;48.815000
+79;Deux-Sèvres;6 040;79310 Mazières-en-Gâtine;-0.317222 ;46.555556
+80;Somme;6 194;80260 Bertangles;2.277778 ;49.958056
+81;Tarn;5 780;81120 Réalmont;2.166111 ;43.785278
+82;Tarn-et-Garonne;3 729;82130 Villemade;1.281944 ;44.085833
+83;Var;6 163;83570 Carcès;6.218056 ;43.460556
+84;Vaucluse;3 451;84210 Venasque;5.186111 ;43.993889
+85;Vendée;6 774;85310 La Chaize-le-Vicomte;-1.297778 ;46.674722
+86;Vienne;7 038;86800 Saint-Julien-l'Ars;0.460278 ;46.563889
+87;Haute-Vienne;5 560;87270 Couzeix;1.235278 ;45.891667
+88;Vosges;5 899;88390 Uxegney;6.380556 ;48.196667
+89;Yonne;7 458;89470 Monéteau;3.564444 ;47.839722
+90;Territoire de Belfort;612;90340 Chèvremont;6.928611 ;47.631667
+91;Essonne;1 819;91510 Lardy;2.243056 ;48.522222
+92;Hauts-de-Seine;175;92100 Boulogne/75016 Paris;2.245833 ;48.847222
+93;Seine-Saint-Denis;237;93140 Bondy;2.478056 ;48.917500
+94;Val-de-Marne;246;94000 Créteil;2.468889 ;48.777500
+95;Val-d'Oise;1 253;95430 Auvers-sur-Oise;2.131111 ;49.082778
+988;Nouvelle-Calédonie;18575;Nouméa;165.18;-21.15
+976;Mayotte;376;Mamoudzou;45.2762;-12.8275
+974;La Réunion;2512;saint-Denis;55.532062;-21.114533
+973;Guyanne;86504;Cayenne;-53.07823;3.951795
+987;Polynésie francaise;4167;Papeete;-149.426042;-17.650920
+972;Martinique;1128;Fort-de-France;-61.022814;14.635541
+986;Wallis et Futuna;124;Mata Utu;-96.0652362;29.6313486
+971;Guadeloupe;1628;Basse-Terre;-61.5510;16.2650
+977;Saint-Barthélemy;24;Gustavia;-62.5003;17.5352
+978;Saint-Martin;53;Marigot;-63.0336;18.0431
+975;Saint Pierre et Miquelon;242;saint-Pierre;-56.3814;47.0975

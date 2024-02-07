@@ -1,0 +1,173 @@
+body {
+  background-color: black;
+}
+
+/* Streamlit main content area */
+.main {
+  background-color: black;
+}
+header[data-testid="stHeader"] {
+  background-color: black;
+}
+
+
+h1 {
+  color: #eee7e7;
+  font-size: 32px; /* Taille pour h1 */
+  margin-top: 20px; /* Ajout d'une marge en haut */
+  padding-top: 10px; /* Ajout d'un padding en haut */
+}
+
+h2 {
+  color: #d99ea9;
+  font-size: 28px; /* Taille pour h2 */
+  /*text-align: center;      /* Alignement du texte */
+}
+
+h3 {
+  color: #004040;
+  font-size: 22px; /* Taille pour h3 */
+
+}
+
+h4 {
+  color: #ffdee4;  
+  font-size: 20px; /* Taille pour h4 */
+  padding: 10px;           /* Espacement intérieur */
+}
+
+
+h5 {
+  color: #BFBE9C;             /* Couleur de texte */
+  font-family: Arial, sans-serif; /* Famille de polices */
+  font-size: 20px;         /* Taille de la police */
+  font-weight: bold;       /* Épaisseur de la police */
+  padding: 10px;           /* Espacement intérieur */
+
+}
+
+
+p {
+  color: white;             /* Couleur de texte */
+  font-family: Arial, sans-serif; /* Famille de polices */
+  font-size: 14;           /* Espacement intérieur */
+
+}
+
+
+********************************************
+table.stTable {
+  width: 100%;
+}
+
+table.stTable, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table.stTable th, table.stTable td {
+  padding: 15px;
+  text-align: center !important;
+}
+
+********************************************
+code {
+  color: #1ec347;
+}
+
+#MainMenu {
+  display: none;
+}
+
+div[data-testid="stDecoration"] {
+  display: none;
+}
+
+footer {
+  display: none;
+}
+
+/* Radio buttons */
+
+.st-cc {
+  color: rgb(7, 31, 7);
+  font-weight: 500;
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"] > div {
+  background-color: #732634;
+  padding-top: 2rem;
+  padding-left: 1.5rem;
+}
+
+section[data-testid="stSidebar"] button[title="View fullscreen"] {
+  display: none;
+}
+
+section[data-testid="stSidebar"] button[kind="icon"] {
+  display: none;
+}
+
+section[data-testid="stSidebar"] .st-bk {
+  background-color: transparent;
+}
+
+section[data-testid="stSidebar"] button.st-c0 {
+  background-color: black;
+}
+section[data-testid="stSidebar"] button {
+  background-color: transparent; 
+}
+
+
+section[data-testid="stSidebar"] hr {
+  margin-top: 30px;
+  border-color: white;
+  width: 50px;
+}
+
+section[data-testid="stSidebar"] h2 {
+  color: white;
+}
+
+/* Images */
+
+button[title="View fullscreen"] {
+  display: none;
+}
+
+button {
+  color: #121f09;
+}
+
+
+/* hr */
+
+hr {
+  width: 200px;
+  border-width: 5px;
+  border-color: #1d2122;
+  margin-top: 0px;
+}
+
+/* First Page */
+
+section[tabindex="0"] .block-container {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+div.st-c8.st-bf.st-c9.st-ca.st-cb.st-bh.st-cc.st-cd.st-ce {
+  color: white !important;
+}
+
+div.st-c7.st-be.st-c8.st-c9.st-ca.st-bg.st-cb.st-cc.st-cd {
+  color: white !important;
+}
+
+/* Style pour le texte des éléments radio */
+div[role="radiogroup"] label > div:last-child {
+  color: white !important;
+}
